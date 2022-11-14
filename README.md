@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IT university<br>👯 I’m looking to collaborate on backend developer and data scientist<br>🤝 I’m looking for help with make performance for your product<br>🌱 I’m currently learning research code and implementation<br>⚡ Fun fact: I like calculate for problem and sloving
+🔭 I’m currently working on IT at KMUTT university<br>👯 I’m looking to collaborate on backend developer and data scientist<br>🤝 I’m looking for help with make performance for your product<br>🌱 I’m currently learning research code and implementation<br>⚡ Fun fact: I like calculate for problem and sloving
 
 
 ## 🌐 Socials:
