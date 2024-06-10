@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud service, Machine Learning for Backend and Data scientist and Organization goal**
 
-- 💬 Ask me about **Vue.js, Express.js, Spring boot and MySQL**
+- 💬 Ask me about **Vue.js, Express.js, Spring boot, MySQL and Machine Learning**
 
 - 📫 How to reach me **sahathat.yingsa44@gmail.com**
 
